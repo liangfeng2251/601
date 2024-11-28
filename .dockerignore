@@ -1,0 +1,23 @@
+# 忽略git和版本控制文件
+.git
+.gitignore
+
+# 忽略操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# 忽略Python编译产生的__pycache__目录和.pyc文件
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# 忽略Python环境配置文件
+Pipfile
+Pipfile.lock
+
+# 忽略日志文件
+*.log
+
+# 忽略本地配置文件
+.local

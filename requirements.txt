@@ -1,0 +1,20 @@
+# Created by HM on 2023-07-08
+
+sqlalchemy~=2.0.31
+fastapi~=0.110.3
+pydantic~=2.5.3
+uvicorn~=0.20.0
+itsdangerous~=2.0.1
+configparser~=5.0.2
+minio~=7.2.7
+passlib~=1.7.4
+pymysql~=1.1.1
+pydantic-settings~=2.2.1
+aiomysql~=0.2.0
+python-multipart~=0.0.9
+python-dotenv~=1.0.1
+requests~=2.32.3
+alembic~=1.13.2
+typer~=0.9.4
+apscheduler~=3.10.4
+paramiko~=3.4.0
